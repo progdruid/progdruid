@@ -7,8 +7,8 @@
 - :mag: Searching for great people and technologies to work with.
 - :joystick: Finished games:
   - [Polymort](https://play.google.com/store/apps/details?id=com.ProgrammingDruid.Polymort) - a continuation of [Coffee Cave](https://progdruid.itch.io/coffee-cave) successfully shipped on Google Play. Here is a [repo](https://github.com/progdruid/polymort).
+  - [Sketch Crawler](https://store.steampowered.com/app/1731260/Sketch_Crawler/) - worked on gameplay and graphics programming.
   - [by-14](https://progdruid.itch.io/by-14) - a stylized platformer with grappling hook mechanic and mysterious and vibrant visuals. Made in UE5. Here is a [repo](https://github.com/progdruid/by-14).
-  - [Coffee Cave](https://progdruid.itch.io/coffee-cave) - a 2d puzzle-platformer with an interesting death mechanic made for a game jam.
 - :art: Curious about procedural generation and generative things. My generative labour:
   - [Little Drill Miner](https://github.com/progdruid/little-drill-miner) - starbound/terraria-like underworld map generation.
   - [Hydraulic Erosion](https://github.com/progdruid/hydraulic-erosion) - simulation of mountain hydraulic erosion.
