@@ -1,27 +1,16 @@
-### yo. im druid or zak if you want.
 
-- im a ukrainian dev. specialising in low-level programming, 3d rendering, game engines and general game development 
-- currently in scotland. you know why...
-- c++/c#
-- unity / ue5
-- currently working on my own game engine / graphics workbench. [link to *be*](https://github.com/progdruid/be-engine)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/-UE5-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+... [![X](https://img.shields.io/badge/-@progdruid-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/progdruid)
+[![itch.io](https://img.shields.io/badge/-itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://progdruid.itch.io/)
 
-- some other projects i worked with:
-  - [Polymort](https://play.google.com/store/apps/details?id=com.ProgrammingDruid.Polymort) - a continuation of [Coffee Cave](https://progdruid.itch.io/coffee-cave) successfully shipped on Google Play.
-  - [Sketch Crawler](https://store.steampowered.com/app/1731260/Sketch_Crawler/) - worked on gameplay and graphics programming.
-  - [by-14](https://progdruid.itch.io/by-14) - a stylized platformer with grappling hook mechanic and mysterious and vibrant visuals. Made in UE5. Here is a [repo](https://github.com/progdruid/by-14).
-  - [Artworks](https://github.com/progdruid/artworks) - minor works united in one repo.
-  
+## yo. im druid, or zak if you prefer.
 
-<!--
+im a dev specialising in low-level programming, 3d rendering, game engines, and general game development.
+ukrainian, currently based in scotland. you know why.
 
-- :joystick: Finished games:
-- :art: Curious about procedural generation and generative things. My generative labour:
-  - [Little Drill Miner](https://github.com/progdruid/little-drill-miner) - starbound/terraria-like underworld map generation.
-  - [Hydraulic Erosion](https://github.com/progdruid/hydraulic-erosion) - simulation of mountain hydraulic erosion.
-- :rocket: I also did some low level things:
-  - [Rocket Lab](https://github.com/progdruid/rocket-lab) - an extremely simple "game" with an own simple batch renderer written in [bgfx](https://github.com/bkaradzic/bgfx).
-- :zap: You can find me on [Twitter](https://twitter.com/progdruid), [Itch.io](https://progdruid.itch.io/), [Medium](https://progdruid.medium.com/), and [Reddit](https://www.reddit.com/user/ProgrammingDruid/)
-- :love_letter: You can also contact me at zak.kosovych@gmail.com
+[follow me on x.com](https://x.com/progdruid) if you want to follow my work, i post there regularly.
 
--->
+![pixel art shader](.github/media/plant-pixelation.gif)
