@@ -2,6 +2,7 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-UE5-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![Vulkan](https://img.shields.io/badge/-Vulkan-A41E22?style=flat-square&logo=vulkan&logoColor=white)
 ...
 [![X](https://img.shields.io/badge/-@progdruid-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/progdruid)
 [![itch.io](https://img.shields.io/badge/-itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://progdruid.itch.io/)
